@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47116" started-at="2019-04-24T00:33:23Z" finished-at="2019-04-24T00:34:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47116" started-at="2019-04-24T00:33:23Z" finished-at="2019-04-24T00:34:10Z">
+      <class name="mypackage.Assign9">
+        <test-method status="PASS" signature="setup()[pri:0, instance:mypackage.Assign9@464bee09]" name="setup" is-config="true" duration-ms="8167" started-at="2019-04-24T00:33:23Z" finished-at="2019-04-24T00:33:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="uiValidation(java.lang.String, java.lang.String)[pri:0, instance:mypackage.Assign9@464bee09]" name="uiValidation" duration-ms="682" started-at="2019-04-24T00:33:31Z" data-provider="loginCredentials" finished-at="2019-04-24T00:33:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr190276]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dYgurUp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiValidation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:mypackage.Assign9@464bee09]" name="closeBrowser" is-config="true" duration-ms="1429" started-at="2019-04-24T00:33:32Z" finished-at="2019-04-24T00:33:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:mypackage.Assign9@464bee09]" name="setup" is-config="true" duration-ms="7103" started-at="2019-04-24T00:33:34Z" finished-at="2019-04-24T00:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="uiValidation(java.lang.String, java.lang.String)[pri:0, instance:mypackage.Assign9@464bee09]" name="uiValidation" duration-ms="545" started-at="2019-04-24T00:33:41Z" data-provider="loginCredentials" finished-at="2019-04-24T00:33:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr190276]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dYgurUp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiValidation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:mypackage.Assign9@464bee09]" name="closeBrowser" is-config="true" duration-ms="1571" started-at="2019-04-24T00:33:41Z" finished-at="2019-04-24T00:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:mypackage.Assign9@464bee09]" name="setup" is-config="true" duration-ms="7358" started-at="2019-04-24T00:33:43Z" finished-at="2019-04-24T00:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="uiValidation(java.lang.String, java.lang.String)[pri:0, instance:mypackage.Assign9@464bee09]" name="uiValidation" duration-ms="756" started-at="2019-04-24T00:33:50Z" data-provider="loginCredentials" finished-at="2019-04-24T00:33:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr190276]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dYgurUp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiValidation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:mypackage.Assign9@464bee09]" name="closeBrowser" is-config="true" duration-ms="1512" started-at="2019-04-24T00:33:51Z" finished-at="2019-04-24T00:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:mypackage.Assign9@464bee09]" name="setup" is-config="true" duration-ms="7462" started-at="2019-04-24T00:33:52Z" finished-at="2019-04-24T00:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="uiValidation(java.lang.String, java.lang.String)[pri:0, instance:mypackage.Assign9@464bee09]" name="uiValidation" duration-ms="255" started-at="2019-04-24T00:34:00Z" data-provider="loginCredentials" finished-at="2019-04-24T00:34:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hari]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiValidation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:mypackage.Assign9@464bee09]" name="closeBrowser" is-config="true" duration-ms="1410" started-at="2019-04-24T00:34:00Z" finished-at="2019-04-24T00:34:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:mypackage.Assign9@464bee09]" name="setup" is-config="true" duration-ms="7162" started-at="2019-04-24T00:34:02Z" finished-at="2019-04-24T00:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="uiValidation(java.lang.String, java.lang.String)[pri:0, instance:mypackage.Assign9@464bee09]" name="uiValidation" duration-ms="237" started-at="2019-04-24T00:34:09Z" data-provider="loginCredentials" finished-at="2019-04-24T00:34:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Haribc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiValidation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:mypackage.Assign9@464bee09]" name="closeBrowser" is-config="true" duration-ms="1423" started-at="2019-04-24T00:34:09Z" finished-at="2019-04-24T00:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- mypackage.Assign9 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
