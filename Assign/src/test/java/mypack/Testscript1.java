@@ -4,6 +4,7 @@ import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+//Testng
 public class Testscript1 extends Extenthelper {
 	Logger log = LoggerHelper.getLogger(Testscript1.class);
 
