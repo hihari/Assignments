@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+      <class name="sample.AcceptanceTestcase2">
+        <test-method status="PASS" signature="logoutAcceptance2()[pri:0, instance:sample.AcceptanceTestcase2@464bee09]" name="logoutAcceptance2" duration-ms="0" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAcceptance2 -->
+        <test-method status="PASS" signature="homeAcceptance2()[pri:0, instance:sample.AcceptanceTestcase2@464bee09]" name="homeAcceptance2" duration-ms="0" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAcceptance2 -->
+        <test-method status="PASS" signature="loginAcceptance2()[pri:0, instance:sample.AcceptanceTestcase2@464bee09]" name="loginAcceptance2" duration-ms="0" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAcceptance2 -->
+        <test-method status="PASS" signature="searchAcceptance2()[pri:0, instance:sample.AcceptanceTestcase2@464bee09]" name="searchAcceptance2" duration-ms="0" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAcceptance2 -->
+      </class> <!-- sample.AcceptanceTestcase2 -->
+      <class name="sample.AcceptanceTestcase1">
+        <test-method status="PASS" signature="loginAcceptance2()[pri:0, instance:sample.AcceptanceTestcase1@6eebc39e]" name="loginAcceptance2" is-config="true" duration-ms="16" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAcceptance2 -->
+        <test-method status="PASS" signature="homeAcceptance1()[pri:0, instance:sample.AcceptanceTestcase1@6eebc39e]" name="homeAcceptance1" duration-ms="0" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAcceptance1 -->
+        <test-method status="PASS" signature="searchAcceptance1()[pri:0, instance:sample.AcceptanceTestcase1@6eebc39e]" name="searchAcceptance1" is-config="true" duration-ms="0" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAcceptance1 -->
+        <test-method status="PASS" signature="loginAcceptance1()[pri:0, instance:sample.AcceptanceTestcase1@6eebc39e]" name="loginAcceptance1" duration-ms="0" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAcceptance1 -->
+        <test-method status="PASS" signature="homeAcceptance2()[pri:0, instance:sample.AcceptanceTestcase1@6eebc39e]" name="homeAcceptance2" is-config="true" duration-ms="0" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAcceptance2 -->
+        <test-method status="PASS" signature="logoutAcceptance1()[pri:0, instance:sample.AcceptanceTestcase1@6eebc39e]" name="logoutAcceptance1" is-config="true" duration-ms="0" started-at="2019-04-18T03:21:42Z" finished-at="2019-04-18T03:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAcceptance1 -->
+      </class> <!-- sample.AcceptanceTestcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

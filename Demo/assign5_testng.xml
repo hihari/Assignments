@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="Suite" parallel="tests">
+		<groups>
+			<run>
+				<exclude name="systemTesting" />
+			</run>
+		</groups>
+	<test name="Test1">
+		<packages>
+			<package name="acceptanceTesting" />
+		</packages>
+	</test> <!-- Test -->
+	<test name="Test2">
+		<packages>
+			<package name="regression" />
+		</packages>
+	</test> <!-- Test -->
+	<test name="Test3">
+		<packages>
+			<package name="sanity" />
+		</packages>
+	</test> <!-- Test -->
+	<test name="Test4">
+		<packages>
+			<package name="systemTesting" />
+		</packages>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
